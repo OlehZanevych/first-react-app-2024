@@ -1,0 +1,32 @@
+.user_item__text,
+.user_item__number,
+.user_item__operations {
+    display: inline-block;
+}
+
+.user_item__text {
+    width: 25%;
+}
+
+.user_item__number {
+    width: 10%;
+}
+
+.user_item__operations {
+    width: 40%;
+    height: 35px;
+    line-height: 35px;
+}
+
+.user_item__operations * {
+    margin-left: 10px;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.user_item__operations *:hover {
+    background-color: #b83333;
+    font-size: 18px;
+    cursor: pointer;
+}
+

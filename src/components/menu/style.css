@@ -1,0 +1,10 @@
+.menu ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin: 10px 30px;
+}

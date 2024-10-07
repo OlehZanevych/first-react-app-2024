@@ -1,0 +1,8 @@
+.department_item {
+    display: flex;
+    margin-top: 20px;
+}
+
+.department_item__info {
+    margin-left: 20px;
+}

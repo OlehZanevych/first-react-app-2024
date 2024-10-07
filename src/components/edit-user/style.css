@@ -1,0 +1,6 @@
+.edit-user {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 150px minmax(200px, auto);
+    grid-gap: 20px
+}
